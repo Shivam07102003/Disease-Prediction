@@ -54,9 +54,8 @@ This project uses **five datasets**:
 - 🧾 Provides **possible diseases** with severity scores  
 - 💡 Suggests **precautions** based on the predicted condition  
 
-Example visualization (if you add plots later):  
-![Symptom Severity](docs/symptom_severity.png)  
-![Prediction Workflow](docs/prediction_flow.png)
+Example output:  
+![Output](images/output.png)  
 
 ---
 
