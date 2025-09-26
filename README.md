@@ -1,6 +1,6 @@
 # 🩺 Disease Prediction System
 
-![Python](https://img.shields.io/badge/python-3.10-blue)  
+![Python](https://img.shields.io/badge/python-3.12-blue)  
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 Predict **diseases based on symptoms** using **machine learning and dataset-driven analysis**.  
